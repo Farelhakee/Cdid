@@ -1,6 +1,6 @@
 _G.CarSpeed = {
 Enabled = true,
-Multiplier = 10
+Multiplier = 25
 }
 _G.RainbowCar = true
 _G.V3rmillion = true
