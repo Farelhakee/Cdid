@@ -1,5 +1,5 @@
 --[[SCRIPT GLOBALS:
-_G.CarSpeed = {
+_G.CarSpeed = 15
     Enabled = true,
     Multiplier = 50
 }
